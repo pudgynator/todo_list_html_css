@@ -3,7 +3,7 @@
 <br>
 <p> Для перегляду вебзастосування локально послідовно виконайте наступні команди:</p>
 <ol>
-  <li> <code> git clone https://github.com/YuriiKlimyuk/todo_list_html_css.git </code>, щоб клонувати репозиторій на локальний комп’ютер; </li>
+  <li> <code> git clone https://github.com/pudgynator/todo_list_html_css </code>, щоб клонувати репозиторій на локальний комп’ютер; </li>
   <li> <code> cd todo_list_html_css </code>, щоб перейти в папку todo_list_html_css; </li>
   <li> <code> start index.html </code>, щоб переглянути вебзастосування у браузері. </li>
 </ol>
